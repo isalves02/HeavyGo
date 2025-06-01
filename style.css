@@ -43,6 +43,12 @@ body {
 h1, h2 {
   color: #032F5A;
 }
+h1 {
+  font-size: 4.2rem;
+}
+.description {
+  font-size: 1.5rem;
+}
 .highlight {
   color: #FA5A21;
 }
